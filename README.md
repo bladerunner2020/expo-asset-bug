@@ -22,7 +22,8 @@ npm run web
 In the browser will be displayed:
 
 ```text
-Icon URI: /assets/?unstable_path=.%2Fassets/icon.png, hash: null
+Icon URI: /assets/?unstable_path=.%2Fassets/icon.png
+hash: null
 ```
 
 ## Expected behavior
@@ -40,5 +41,6 @@ npm run web
 In the browser will be displayed:
 
 ```text
-Icon URI: /assets/?unstable_path=.%2Fassets%2Ficon.png&platform=web&hash=4e3f888fc8475f69fd5fa32f1ad5216a, hash: 4e3f888fc8475f69fd5fa32f1ad5216a
+Icon URI: /assets/?unstable_path=.%2Fassets%2Ficon.png&platform=web&hash=4e3f888fc8475f69fd5fa32f1ad5216a
+hash: 4e3f888fc8475f69fd5fa32f1ad5216a
 ```

@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>
-        {`Icon URI: ${uri}, hash: ${hash}`}
+        {`Icon URI: ${uri}\nhash: ${hash}`}
       </Text>
     </View>
   );
